@@ -3,24 +3,24 @@
       A new android pattern lock phishing tool for termux users
 </p>
 
-## 🔍 ***About hacklock***:
+## ðŸ” ***About hacklock***:
 
 hacklock is a bash based script which is officially termux from this tool in just one click you can generate pattern phishing tool which can hack victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/Avengehacker/m-wiz.svg)](https://github.com/Avengehacker/hacklock)
-[![Build Status](https://img.shields.io/github/forks/Avengehacker/m-wiz.svg)](https://github.com/Avengehacker/hacklock)
-[![License: MIT](https://img.shields.io/github/license/Avengehacker/m-wiz.svg)](https://github.com/Avengehacker/hacklock)
+[![Build Status](https://img.shields.io/github/stars/Avenge-hacker/m-wiz.svg)](https://github.com/Avenge-hacker/hacklock)
+[![Build Status](https://img.shields.io/github/forks/Avenge-hacker/m-wiz.svg)](https://github.com/Avenge-hacker/hacklock)
+[![License: MIT](https://img.shields.io/github/license/Avenge-hacker/m-wiz.svg)](https://github.com/Avenge-hacker/hacklock)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#hacklock)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![IMG_20200425_203939](https://user-images.githubusercontent.com/61612610/80455298-1a97df00-8949-11ea-8531-4174de1dbfc8.jpg)
 
-### 📌 ***Hacklock is available for***:
+### ðŸ“Œ ***Hacklock is available for***:
 
 * Termux
 
-### 📌 ***Installation and usage guide***:
+### ðŸ“Œ ***Installation and usage guide***:
 ```
 $ apt-get update -y
 ```
@@ -40,7 +40,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Avengehacker/Hacklock1
+$ git clone https://github.com/Avenge-hacker/Hacklock1
 ```
 ```
 $ ls
@@ -63,7 +63,7 @@ $ bash hacklock.sh
 
 * Note:- Don't delete any of the scripts included in core files
 
-# 🛡︄1�7 ***More***:
+# ðŸ›¡ï¸„1¤7 ***More***:
 
 __Hack pattern__ :
 - From this option you can create phishing pattern link which get keys of victim pattern after he used this link
@@ -77,13 +77,13 @@ __Update__ :
 __Exit__ :
 - From this option you can exit from hacklock tool 
 
-## 📌 ***Screenshot*** :
+## ðŸ“Œ ***Screenshot*** :
 ![IMG_20200410_101025](https://user-images.githubusercontent.com/49580304/78963074-e1233f00-7b13-11ea-97e9-b9d79412fb55.jpg)"
 
 ![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
 
 
-## 🔗 ***Check this***
+## ðŸ”— ***Check this***
 
 ### Subscribe our channel on youtube:
 https://www.youtube.com/Avenge-YT 
@@ -91,7 +91,7 @@ https://www.youtube.com/Avenge-YT
 ### Chekout our webite:
 http://avenghacker.blogspot.com
 
-## 👥 ***Join***
+## ðŸ‘¥ ***Join***
 
 
 ### Telegram channel:
@@ -103,6 +103,6 @@ https://t.me/Avenge-YT
 ### Instagram: 
 
 
-### 📢 Warning
+### ðŸ“¢ Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
