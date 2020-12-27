@@ -14,7 +14,7 @@ hacklock is a bash based script which is officially termux from this tool in jus
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![IMG_20200425_203939](https://user-images.githubusercontent.com/61612610/80455298-1a97df00-8949-11ea-8531-4174de1dbfc8.jpg)
+![Screenshot 2020-12-27 20:18:02](https://user-images.githubusercontent.com/76620513/103173399-c7cc4980-4880-11eb-8e8b-ffd0497fafed.png)
 
 ### ðŸ“Œ ***Hacklock is available for***:
 
@@ -40,7 +40,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Avenge-hacker/Hacklock1
+$ git clone https://github.com/Avenge-hacker/Hacklock
 ```
 ```
 $ ls
